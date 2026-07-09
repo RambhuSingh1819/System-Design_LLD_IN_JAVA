@@ -81,7 +81,7 @@ Notification-Service/
 
 ---
 
-# ⚙️ System Workflow
+# System Workflow
 
 ```
 User
@@ -103,7 +103,7 @@ Notification Observable
       Email   SMS     Popup
 ```
 
-# 💻 Console Demo
+# Console Demo
 
 ```
 =============================
