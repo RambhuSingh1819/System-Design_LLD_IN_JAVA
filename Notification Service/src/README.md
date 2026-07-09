@@ -41,9 +41,9 @@ The application supports plug-and-play notification channels, runtime message en
 ```text
 Notification-Service/
 │
-├── run.sh
-├── README.md
-├── bin/
+|
+├
+├
 │
 └── src/
     └── main/
@@ -74,9 +74,6 @@ Notification-Service/
                     │
                     ├── service/
                     │     └── NotificationService.java
-                    │
-                    └── test/
-                          └── LldTestRunner.java
 ```
 
 ---
