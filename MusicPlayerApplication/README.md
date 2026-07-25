@@ -400,27 +400,6 @@ The architecture is flexible enough to accommodate these features with minimal c
 
 ---
 
-# UML Diagrams
-
-## Functional Requirements and High-Level Design
-
-Replace the placeholder below with your image.
-
-```markdown
-![Functional Design](images/music-player-requirements.jpg)
-```
-
----
-
-## Complete UML Class Diagram
-
-Replace the placeholder below with your UML diagram.
-
-```markdown
-![UML Diagram](images/music-player-uml.jpg)
-```
-
----
 
 # Example Usage
 
